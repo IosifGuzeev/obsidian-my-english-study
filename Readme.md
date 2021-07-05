@@ -1,1 +1,1 @@
-{\rtf1}
+This is repository with my notes about things I've studied during my english classes.
