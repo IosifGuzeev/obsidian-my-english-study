@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "9e51f86d965a616c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0df111ad7c9b94b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Basic grammar/Constructions/The objective with the Infinitive construction.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a0a45dd2d210524",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bd15855d0e1a971",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b0647088232930f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d56427453d3984b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7f24fb195ae6a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "15af2a966f3d9069",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af747a1dc876c89e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Basic grammar/Constructions/The objective with the Infinitive construction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f0df111ad7c9b94b",
+  "lastOpenFiles": [
+    "Basic grammar/Constructions/The objective with the Infinitive construction.md",
+    "Basic grammar/Constructions/Constructions.md",
+    "Untitled.md",
+    "Basic grammar/Constructions/Untitled.md",
+    "Basic grammar/Anyone, somebody, everyone e.t.c.md",
+    "Basic grammar/Tenses/Present perfect continuous.md",
+    "Basic grammar/Basic grammar.md",
+    "Basic grammar/Like and as.md",
+    "Basic grammar/Look for and Look up.md",
+    "Basic grammar/Visiting and seeing.md"
+  ]
+}

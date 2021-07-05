@@ -1,0 +1,1 @@
+There is just new or unusual words I've found.
