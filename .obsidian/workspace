@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basic grammar/Constructions/The objective with the Infinitive construction.md",
-            "mode": "source"
+            "file": "Basic grammar/Constructions/Infinitive or gerund.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic grammar/Constructions/The objective with the Infinitive construction.md",
+                "file": "Basic grammar/Constructions/Infinitive or gerund.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f0df111ad7c9b94b",
   "lastOpenFiles": [
-    "Basic grammar/Constructions/The objective with the Infinitive construction.md",
+    "Basic grammar/Constructions/Infinitive or gerund.md",
     "Basic grammar/Constructions/Constructions.md",
+    "Basic grammar/Constructions/The objective with the Infinitive construction.md",
     "Untitled.md",
     "Basic grammar/Constructions/Untitled.md",
     "Basic grammar/Anyone, somebody, everyone e.t.c.md",
     "Basic grammar/Tenses/Present perfect continuous.md",
     "Basic grammar/Basic grammar.md",
     "Basic grammar/Like and as.md",
-    "Basic grammar/Look for and Look up.md",
-    "Basic grammar/Visiting and seeing.md"
+    "Basic grammar/Look for and Look up.md"
   ]
 }
